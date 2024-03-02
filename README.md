@@ -1,4 +1,17 @@
 # laba1
+# Шпаргалка по github
+`git clone` ссылка на место, куда хотите отправить файлы
+`git status` - проверяем изменения  
+После того как все файлы есть в папке пишем `git add *` - добавляем файлы
+Потом пишем `git config user.email "email"` заходим в свой гит
+Потом `git config user.name "login"` - заходим в свой код
+```
+git commit -m"Add new files code" - сохраняем
+git push - отправляем на гит, потребуется введение логина и токена, токен(классик)
+```
+Чтобы создать токен заходим в settings после developer setting
+personal token, token classic, generate new, ставим галочку на первое 
+
 # 1 задача
 # Условие
 ![image](https://github.com/DarkSwordss89125/laba1/assets/160292757/f108e655-68d4-460e-ad8f-a4487bbd7fad)
