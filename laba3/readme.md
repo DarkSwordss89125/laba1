@@ -65,4 +65,11 @@
 ## Результат:
 ![изображение](https://github.com/DarkSwordss89125/laba1/assets/160292757/43e42d73-061f-44aa-8360-48dc1f8d359f)
 
+# Используемы материалы
+
+1) [Recursion in Programming - Full Course - freeCodeCamp.org](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
+2) [🐍 Самоучитель по Python для начинающих. Часть 13: Рекурсивные функции - proglib.io](https://proglib.io/p/samouchitel-po-python-dlya-nachinayushchih-chast-13-rekursivnye-funkcii-2023-01-23)
+3) [Как работает рекурсия – объяснение в блок-схемах и видео - Хабр](https://habr.com/ru/articles/337030/)
+
+
 
