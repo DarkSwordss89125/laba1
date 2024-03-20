@@ -7,7 +7,7 @@
 4. Вывод результата
 ### Результат
 ```
-![image](https://github.com/DarkSwordss89125/laba1/assets/160292757/f61505f4-5515-48b9-a1dc-636c78897489)
+[image](https://github.com/DarkSwordss89125/laba1/assets/160292757/f61505f4-5515-48b9-a1dc-636c78897489)
 
 ```
 # Условие 2 задача
@@ -20,7 +20,7 @@
 5. Выводим результат
 ### Результат
 ```
-![image](https://github.com/DarkSwordss89125/laba1/assets/160292757/22348d56-adab-4143-93b8-79b9d2eb1617)
+[image](https://github.com/DarkSwordss89125/laba1/assets/160292757/22348d56-adab-4143-93b8-79b9d2eb1617)
 
 ```
 https://proglib.io/p/keshirovanie-v-python-algoritm-lru-2020-11-17?ysclid=ltzkwsdhl6644495241
