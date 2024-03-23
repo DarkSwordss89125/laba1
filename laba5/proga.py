@@ -14,7 +14,6 @@ def password_generator(letters_count, numbers_count):
     ascii_password = list(map(ord, password))
     yield ascii_password
 
-# Ввод пользователем количества букв и цифр
 letters_count = int(input("Введите количество букв: "))
 numbers_count = int(input("Введите количество цифр: "))
 
