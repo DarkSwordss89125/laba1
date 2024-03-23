@@ -15,9 +15,6 @@ def password_generator(num_letters, num_digits):
 
     return generated_password
 
-def password_to_ascii(password):
-    return ' '.join(str(ord(char)) for char in password)
-
 num_letters = int(input("Введите количество букв: "))
 num_digits = int(input("Введите количество цифр: "))
 
@@ -26,5 +23,5 @@ generated_password = password_generator(num_letters, num_digits)
 print("Сгенерированный пароль:", generated_password)
 print("Пароль с измененным регистром:", generated_password.swapcase())
 
-ascii_generated_password = password_to_ascii(generated_password)
+ascii_generated_password = ' '.join(map(str, map(ord, generated_password)))
 print("ASCII код сгенерированного пароля:", ascii_generated_password)
