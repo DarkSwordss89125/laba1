@@ -31,5 +31,7 @@
 
 
 [Кэширование в Python: алгоритм LRU](https://proglib.io/p/keshirovanie-v-python-algoritm-lru-2020-11-17?ysclid=ltzkwsdhl6644495241)
+
 [Избегайте рекурсии в Python: вспомните о замыкании](https://habr.com/ru/companies/skillfactory/articles/542880/)
+
 [Декораторы Python: пошаговое руководство](https://habr.com/ru/companies/otus/articles/727590/)
