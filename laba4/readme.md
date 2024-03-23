@@ -25,12 +25,11 @@
 7. Возвращаем функцию
 8. В декораторе создается сама последовательность Фибоначчи
 ### Результат
-```
-55
+
 ![image](https://github.com/DarkSwordss89125/laba1/assets/160292757/139864c5-bd60-411f-b184-4e5471267a88)
+# Используемые материалы
 
 
-```
-https://proglib.io/p/keshirovanie-v-python-algoritm-lru-2020-11-17?ysclid=ltzkwsdhl6644495241
-https://habr.com/ru/companies/skillfactory/articles/542880/
-https://habr.com/ru/companies/otus/articles/727590/
+[Кэширование в Python: алгоритм LRU](https://proglib.io/p/keshirovanie-v-python-algoritm-lru-2020-11-17?ysclid=ltzkwsdhl6644495241)
+[Избегайте рекурсии в Python: вспомните о замыкании](https://habr.com/ru/companies/skillfactory/articles/542880/)
+[Декораторы Python: пошаговое руководство](https://habr.com/ru/companies/otus/articles/727590/)
