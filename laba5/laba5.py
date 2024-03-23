@@ -1,7 +1,7 @@
 import random
 
 def generate_password(num_letters, num_digits):
-    letters = 'abcdefghijklmnopqrstuvwxyz'
+    letters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
     digits = '0123456789'
     
     password = ''.join(random.choices(letters, k=num_letters) + random.choices(digits, k=num_digits))
