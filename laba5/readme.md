@@ -11,6 +11,6 @@
 7. Выводим результат.
 ## Результат
 ```
-![image](https://github.com/DarkSwordss89125/laba1/assets/160292757/757c6e6d-853e-4e74-88a5-bdf5d022351e)
+[![image](https://github.com/DarkSwordss89125/laba1/assets/160292757/757c6e6d-853e-4e74-88a5-bdf5d022351e)](https://sun9-63.userapi.com/impg/8ZuOA-B2W2dSpyfZMf-TLM4x6pP7r5KUZSwAEQ/iIsihq1GeNU.jpg?size=662x94&quality=96&sign=e2d625a97859862715411d940e80485a&type=album)https://sun9-63.userapi.com/impg/8ZuOA-B2W2dSpyfZMf-TLM4x6pP7r5KUZSwAEQ/iIsihq1GeNU.jpg?size=662x94&quality=96&sign=e2d625a97859862715411d940e80485a&type=album
 
 ```
