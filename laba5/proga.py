@@ -1,27 +1,25 @@
-import random
-import string
+def password_generator(letters_count, numbers_count):
+    import random
+    import string
 
-def password_generator(num_letters, num_digits):
     letters = string.ascii_letters
-    digits = string.digits
+    numbers = string.digits
 
-    generated_password = ""
+    password = ''.join(random.choices(letters, k=letters_count) + random.choices(numbers, k=numbers_count))
+    yield password
+    
+    inv_password = ''.join([s.upper() if s.islower() else s.lower() for s in password])
+    yield inv_password
+    
+    ascii_password = list(map(ord, password))
+    yield ascii_password
 
-    for _ in range(num_letters):
-        generated_password += random.choice(letters)
+# Ввод пользователем количества букв и цифр
+letters_count = int(input("Введите количество букв: "))
+numbers_count = int(input("Введите количество цифр: "))
 
-    for _ in range(num_digits):
-        generated_password += random.choice(digits)
+generator = password_generator(letters_count, numbers_count)
 
-    return generated_password
-
-num_letters = int(input("Введите количество букв: "))
-num_digits = int(input("Введите количество цифр: "))
-
-generated_password = password_generator(num_letters, num_digits)
-
-print("Сгенерированный пароль:", generated_password)
-print("Пароль с измененным регистром:", generated_password.swapcase())
-
-ascii_generated_password = ' '.join(map(str, map(ord, generated_password)))
-print("ASCII код сгенерированного пароля:", ascii_generated_password)
+print("\nИсходный пароль:", next(generator))
+print("Пароль с измененным регистром:", next(generator))
+print("Пароль в ASCII коде:", next(generator))
