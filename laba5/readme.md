@@ -11,5 +11,6 @@
 7. Выводим результат.
 ## Результат
 ```
+![image](https://github.com/DarkSwordss89125/laba1/assets/160292757/757c6e6d-853e-4e74-88a5-bdf5d022351e)
 
 ```
