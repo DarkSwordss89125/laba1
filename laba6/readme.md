@@ -39,6 +39,8 @@
 ![image](https://github.com/DarkSwordss89125/laba1/assets/160292757/8a759461-95f0-45d2-b115-235717357132)
 ![image](https://github.com/DarkSwordss89125/laba1/assets/160292757/c77e95a1-7ad6-470c-8165-34671db7ab0a)
 Используемые источники:
-[https://ru.stackoverflow.com/questions/1131670/%D0%9A%D0%B0%D0%BA-%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BA%D1%80%D1%83%D0%B3-%D0%B2-tkinter](Как нарисовать круг в Tkinter)
-[https://vk.com/@-200274205-urok-45-modul-python-docx-rabotaem-s-word-dokumentami](Python-docx)
+
+[Как нарисовать круг в Tkinter](https://ru.stackoverflow.com/questions/1131670/%D0%9A%D0%B0%D0%BA-%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BA%D1%80%D1%83%D0%B3-%D0%B2-tkinter)
+
+[Python-docx](https://vk.com/@-200274205-urok-45-modul-python-docx-rabotaem-s-word-dokumentami)
 
